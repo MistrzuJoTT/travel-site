@@ -2,6 +2,7 @@
   "name": "travel-site",
   "version": "1.0.0",
   "dependencies": {
+    "del": "^2.2.2",
     "jquery": "^2.2.3",
     "normalize.css": "^4.1.1"
   },
